@@ -3,10 +3,7 @@
 ## Description
 This PHP-based website offers dynamic content, greeting visitors with appropriate messages and images based on the time of the day. Additionally, it includes visit tracking, multiplication table generation, and dynamic GIF image display functionalities.
 
-## ScreenShot
-![time-based php](path_to_your_demo_image.png)
-![time-based php](path_to_your_demo_image.png)
-
+## Link
 
 For an interactive experience, check out the live website: https://www.cs.ryerson.ca/~asipahi/lab08.php
 
